@@ -257,4 +257,3 @@ Grids are saved to and loaded from plain `.txt` files. The format has three sect
 
 ---
 
-*Cairo University · Faculty of Engineering · Computer Engineering Department · CMPG102 · Fall 2024*
